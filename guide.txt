@@ -1,0 +1,11 @@
+Step 1:
+Create venv
+
+Step 2:
+install requirements.txt
+
+Step 3:
+start the prefect server by "prefect server start". You will get the local domain after starting the server
+
+Step 4:
+run the .py file, then click on the local server link provided. It will be like this: "prefect.engine - View at http://127.0.0.1:4200/runs/flow-run/c0ac0974-d5dc-4a2d-a6f8-08b127ffed66"
